@@ -1,0 +1,10 @@
+pypdf
+PyMuPDF
+python-dotenv
+langchain-community
+langchain_openai
+rank_bm25
+faiss-cpu
+deepval
+rank-bm25
+deepval
